@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raj2raaz
+- 👋 Hi, I’m Subham Raj
 - 👀 I’m interested in Web Development and Coding.
 - 👯 I’m looking to collaborate on Open Source Projects.                     
 - 📫 How to reach me rajshubham199@gmail.com
